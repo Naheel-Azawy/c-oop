@@ -1,0 +1,2 @@
+* OOP in C
+Just a little experiment of how object oriented programming can be implemented in C
